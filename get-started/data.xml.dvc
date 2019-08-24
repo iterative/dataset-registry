@@ -1,0 +1,8 @@
+md5: c2268dfb517c429756bc5ca85965a46b
+wdir: ..
+outs:
+- md5: a304afb96060aad90176268345e10355
+  path: get-started/data.xml
+  cache: true
+  metric: false
+  persist: false
