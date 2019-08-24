@@ -1,0 +1,4 @@
+['remote "storage"']
+url = https://remote.dvc.org/dataset-registry
+[core]
+remote = storage
