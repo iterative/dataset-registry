@@ -26,12 +26,13 @@ $ dvc remote list
 storage https://remote.dvc.org/dataset-registry
 ```
 
-You can run [`dvc pull`](https://man.dvc.org/pull) to download specific datasets
-locally:
+**Important**: To be able to push to the default remove, overwrite it with:
 
 ```console
-$ dvc pull -r storage get-started/data.xml
+$ dvc remote add -d --local storage s3://dvc-public/remote/dataset-registry
 ```
+
+> This requires having configured corresponding S3 credentials locally.
 
 ## Testing data synchronization locally
 
