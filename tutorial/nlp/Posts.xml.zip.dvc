@@ -1,0 +1,8 @@
+md5: 0e5f5407a3f2c01b1dc1ad70f3e96b61
+wdir: ../..
+outs:
+- md5: ce68b98d82545628782c66192c96f2d2
+  path: tutorial/nlp/Posts.xml.zip
+  cache: true
+  metric: false
+  persist: false
