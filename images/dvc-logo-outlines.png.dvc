@@ -1,0 +1,7 @@
+md5: 0f7b53ca6c63b727155db53efff0316f
+outs:
+- md5: 5846bf188572bbc78a10124f36e92631
+  path: dvc-logo-outlines.png
+  cache: true
+  metric: false
+  persist: false
