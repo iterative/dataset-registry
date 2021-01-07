@@ -1,8 +1,5 @@
-md5: 8d87dfac5a1c043ba0e3dff5e255b860
 wdir: ../..
 outs:
-- md5: fa9c0eb4173d86695b4e800219651360
-  path: tutorial/ver/data.zip
-  cache: true
-  metric: false
-  persist: false
+- path: tutorial/ver/data.zip
+  md5: fa9c0eb4173d86695b4e800219651360
+  size: 41122310

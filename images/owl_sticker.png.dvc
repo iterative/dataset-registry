@@ -1,7 +1,4 @@
-md5: 3686c3d40e4cafae08b71db22e91af60
 outs:
-- md5: fa8b9e82c893eb401f30c353bd550ada
-  path: owl_sticker.png
-  cache: true
-  metric: false
-  persist: false
+- path: owl_sticker.png
+  md5: fa8b9e82c893eb401f30c353bd550ada
+  size: 120357

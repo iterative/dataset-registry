@@ -1,7 +1,5 @@
-md5: dbf9ab2dbb6086dc0b8c3a9b72e94fb2
 outs:
-- md5: 22e3f61e52c0ba45334d973244efc155.dir
-  path: cats-dogs
-  cache: true
-  metric: false
-  persist: false
+- path: cats-dogs
+  md5: 22e3f61e52c0ba45334d973244efc155.dir
+  size: 64128504
+  nfiles: 2800
