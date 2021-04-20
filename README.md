@@ -66,9 +66,8 @@ under DVC control, the workspace should look like this:
 $ tree
 .
 ├── README.md
-└── get-started
-    ├── data.xml      # Dataset used in iterative/example-get-started
-    └── data.xml.dvc
-
-1 directory, 3 files
+├── get-started
+│   └── data.xml.dvc  # Dataset used in iterative/example-get-started
+├── get-started-mnist
+│   └── raw.dvc       # Dataset used in iterative/example-get-started-mnist
 ```
