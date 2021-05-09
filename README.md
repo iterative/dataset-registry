@@ -68,6 +68,8 @@ $ tree
 ├── README.md
 ├── get-started
 │   └── data.xml.dvc  # Dataset used in iterative/example-get-started
-├── get-started-mnist
-│   └── raw.dvc       # Dataset used in iterative/example-get-started-mnist
+├── mnist
+│   └── raw.dvc       # Dataset used in iterative/dvc-get-started
+├── fashion-mnist
+    └── raw.dvc       # Dataset used in iterative/dvc-get-started
 ```
