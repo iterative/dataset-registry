@@ -1,5 +1,5 @@
 wdir: ../..
 outs:
-- path: tutorial/ver/new-labels.zip
+- path: tutorials/versioning/new-labels.zip
   md5: 2eaa473159443e75e6fb7b29e56c0787
   size: 22950744
