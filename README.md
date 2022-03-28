@@ -26,7 +26,7 @@ $ dvc remote list
 storage https://remote.dvc.org/dataset-registry
 ```
 
-**Important**: To be able to push to the default remove, overwrite it with:
+**Important**: To be able to push to the default remote, overwrite it with:
 
 ```console
 $ dvc remote add -d --local storage s3://dvc-public/remote/dataset-registry
