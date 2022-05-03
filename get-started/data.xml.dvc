@@ -1,5 +1,5 @@
 outs:
 - path: data.xml
-  md5: 4bd325a30d5f1d5ea1a451d98767ddde
-  size: 59918667
-  desc: 40K StackOverflow posts (1/3 is R lang)
+  md5: 22a1a2931c8370d3aeedd7183606fd7f
+  size: 14445097
+  desc: 10K StackOverflow posts (1/3 is R lang)
