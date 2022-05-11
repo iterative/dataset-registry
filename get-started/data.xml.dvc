@@ -1,5 +1,5 @@
-wdir: ..
 outs:
-- path: get-started/data.xml
-  md5: a304afb96060aad90176268345e10355
-  size: 37891850
+- path: data.xml
+  md5: 22a1a2931c8370d3aeedd7183606fd7f
+  size: 14445097
+  desc: 10K StackOverflow posts (1/3 is R lang)
