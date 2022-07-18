@@ -1,0 +1,5 @@
+outs:
+- md5: 572e23808b1fd6fe6b2b628feebc890c.dir
+  size: 12731887
+  nfiles: 1254
+  path: dataset.parquet
