@@ -1,12 +1,10 @@
 # DVC Dataset Registry
 
-This is an auto-generated repository for use in https://dvc.org/doc/. Please
-report any issues in its source project,
-[example-repos-dev](https://github.com/iterative/example-repos-dev).
-
-_Dataset Registry_ is a centralized place to manage raw data files for use in
-other example DVC projects, such as
+This _[DVC Data Registry]_ is a centralized place to manage raw data files for
+use in other example DVC projects, such as
 https://github.com/iterative/example-get-started.
+
+[dvc data registry]: https://dvc.org/doc/use-cases/data-registry
 
 ## Installation
 
