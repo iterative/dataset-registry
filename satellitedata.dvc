@@ -1,0 +1,5 @@
+outs:
+- md5: 89e81801b4269c9c8db6e8649a720df7.dir
+  size: 171225345
+  nfiles: 3
+  path: satellitedata
