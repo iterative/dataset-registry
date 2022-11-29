@@ -3,3 +3,4 @@ outs:
 - path: tutorials/versioning/data.zip
   md5: fa9c0eb4173d86695b4e800219651360
   size: 41122310
+  remote: docs/dvc
