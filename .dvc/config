@@ -2,3 +2,5 @@
     remote = storage
 ['remote "storage"']
     url = https://remote.dvc.org/dataset-registry
+['remote "docs/dvc"']
+    url = https://remote.dvc.org/docs/dvc
