@@ -1,8 +1,4 @@
-md5: 2a9b853dec3c5f04f4d6073ed57a3480
 wdir: ../..
 outs:
 - md5: 1d2070ee188fc5e4d94ad920e6cc82aa
   path: tutorial/nlp/pipeline.zip
-  cache: true
-  metric: false
-  persist: false
