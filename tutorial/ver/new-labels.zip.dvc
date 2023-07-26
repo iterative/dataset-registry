@@ -1,8 +1,4 @@
-md5: 50faa163d41376bd3eda57ecc856d19b
 wdir: ../..
 outs:
 - md5: 2eaa473159443e75e6fb7b29e56c0787
   path: tutorial/ver/new-labels.zip
-  cache: true
-  metric: false
-  persist: false
