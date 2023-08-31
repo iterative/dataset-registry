@@ -1,0 +1,6 @@
+outs:
+- md5: 14d187e749ee5614e105741c719fa185.dir
+  size: 18999874
+  nfiles: 183
+  hash: md5
+  path: pool_data
