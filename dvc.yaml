@@ -1,0 +1,8 @@
+artifacts:
+  get-started-data:
+    path: get-started/data.xml.dvc
+    type: data
+    desc: 'Stack Overflow questions'
+    labels:
+      - nlp
+      - classification
