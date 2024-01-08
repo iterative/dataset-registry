@@ -1,6 +1,6 @@
 artifacts:
   get-started-data:
-    path: get-started/data.xml.dvc
+    path: get-started/data.xml
     type: dataset
     desc: 'Stack Overflow questions'
     labels:
