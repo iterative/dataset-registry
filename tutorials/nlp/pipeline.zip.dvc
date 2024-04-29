@@ -4,3 +4,4 @@ outs:
   md5: 1d2070ee188fc5e4d94ad920e6cc82aa
   size: 4687
   remote: docs/dvc
+  hash: md5

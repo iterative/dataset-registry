@@ -1,5 +1,6 @@
 outs:
-- md5: 52bd18ec57173426ccde6e377838b7b4.dir
+- md5: 04dd843f68ab4819fadd53fba5aacdc3.dir
   size: 171226948
   nfiles: 4
   path: satellite-data
+  hash: md5

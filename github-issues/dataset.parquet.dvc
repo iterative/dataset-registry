@@ -3,3 +3,4 @@ outs:
   size: 12731887
   nfiles: 1254
   path: dataset.parquet
+  hash: md5

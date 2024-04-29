@@ -3,3 +3,4 @@ outs:
   size: 12368201
   nfiles: 542
   path: cats-dogs
+  hash: md5

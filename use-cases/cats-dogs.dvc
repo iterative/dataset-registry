@@ -4,3 +4,4 @@ outs:
   size: 64128504
   nfiles: 2800
   remote: docs/dvc
+  hash: md5
