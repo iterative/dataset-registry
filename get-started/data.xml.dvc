@@ -4,3 +4,4 @@ outs:
   size: 14445097
   desc: 10K StackOverflow posts (1/3 is R lang)
   remote: docs/dvc
+  hash: md5

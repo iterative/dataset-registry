@@ -2,3 +2,4 @@ outs:
 - path: dvc-logo-outlines.png
   md5: 5846bf188572bbc78a10124f36e92631
   size: 35981
+  hash: md5

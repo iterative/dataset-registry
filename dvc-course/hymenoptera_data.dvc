@@ -3,3 +3,4 @@ outs:
   size: 47404368
   nfiles: 401
   path: hymenoptera_data
+  hash: md5

@@ -2,3 +2,4 @@ outs:
 - path: owl_sticker.png
   md5: fa8b9e82c893eb401f30c353bd550ada
   size: 120357
+  hash: md5
