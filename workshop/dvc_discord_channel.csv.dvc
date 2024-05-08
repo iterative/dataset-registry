@@ -1,0 +1,5 @@
+outs:
+- md5: c99631b236e0daa26c7658382c91c1f3
+  size: 9265543
+  hash: md5
+  path: dvc_discord_channel.csv
